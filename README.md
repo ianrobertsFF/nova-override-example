@@ -1,2 +1,2 @@
-# nova-override-example
- Example repo for nova override
+# Nova 4 Component override example
+Example repo for nova override
